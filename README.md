@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JWil21
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in learning the codes
 - 🌱 I’m currently working on learning the basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Justin@Ephasic.org
